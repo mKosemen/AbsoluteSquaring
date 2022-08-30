@@ -1,0 +1,11 @@
+C:\Users\casper\Desktop\Patika\C#\AbsoluteSquaring\AbsoluteSquaring\bin\Debug\AbsoluteSquaring.exe.config
+C:\Users\casper\Desktop\Patika\C#\AbsoluteSquaring\AbsoluteSquaring\bin\Debug\AbsoluteSquaring.exe
+C:\Users\casper\Desktop\Patika\C#\AbsoluteSquaring\AbsoluteSquaring\bin\Debug\AbsoluteSquaring.pdb
+C:\Users\casper\Desktop\Patika\C#\AbsoluteSquaring\AbsoluteSquaring\obj\Debug\AbsoluteSquaring.csproj.AssemblyReference.cache
+C:\Users\casper\Desktop\Patika\C#\AbsoluteSquaring\AbsoluteSquaring\obj\Debug\AbsoluteSquaring.csproj.SuggestedBindingRedirects.cache
+C:\Users\casper\Desktop\Patika\C#\AbsoluteSquaring\AbsoluteSquaring\obj\Debug\AbsoluteSquaring.Form1.resources
+C:\Users\casper\Desktop\Patika\C#\AbsoluteSquaring\AbsoluteSquaring\obj\Debug\AbsoluteSquaring.Properties.Resources.resources
+C:\Users\casper\Desktop\Patika\C#\AbsoluteSquaring\AbsoluteSquaring\obj\Debug\AbsoluteSquaring.csproj.GenerateResource.cache
+C:\Users\casper\Desktop\Patika\C#\AbsoluteSquaring\AbsoluteSquaring\obj\Debug\AbsoluteSquaring.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\Patika\C#\AbsoluteSquaring\AbsoluteSquaring\obj\Debug\AbsoluteSquaring.exe
+C:\Users\casper\Desktop\Patika\C#\AbsoluteSquaring\AbsoluteSquaring\obj\Debug\AbsoluteSquaring.pdb
